@@ -1,0 +1,9 @@
+C:\Users\lGGlWPl\Documents\GitHub\Eight-Example\ThirdExample\ThirdExample\bin\Debug\ThirdExample.exe.config
+C:\Users\lGGlWPl\Documents\GitHub\Eight-Example\ThirdExample\ThirdExample\bin\Debug\ThirdExample.exe
+C:\Users\lGGlWPl\Documents\GitHub\Eight-Example\ThirdExample\ThirdExample\bin\Debug\ThirdExample.pdb
+C:\Users\lGGlWPl\Documents\GitHub\Eight-Example\ThirdExample\ThirdExample\obj\Debug\ThirdExample.csprojResolveAssemblyReference.cache
+C:\Users\lGGlWPl\Documents\GitHub\Eight-Example\ThirdExample\ThirdExample\obj\Debug\ThirdExample.Form1.resources
+C:\Users\lGGlWPl\Documents\GitHub\Eight-Example\ThirdExample\ThirdExample\obj\Debug\ThirdExample.Properties.Resources.resources
+C:\Users\lGGlWPl\Documents\GitHub\Eight-Example\ThirdExample\ThirdExample\obj\Debug\ThirdExample.csproj.GenerateResource.Cache
+C:\Users\lGGlWPl\Documents\GitHub\Eight-Example\ThirdExample\ThirdExample\obj\Debug\ThirdExample.exe
+C:\Users\lGGlWPl\Documents\GitHub\Eight-Example\ThirdExample\ThirdExample\obj\Debug\ThirdExample.pdb
